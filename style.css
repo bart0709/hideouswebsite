@@ -1,0 +1,24 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: Arial, "MS Trebuchet", sans-serif;
+}
+
+header {
+    margin-top: auto;
+}  
+
+table {
+    text-align: center;
+    margin: auto;
+}
+  
+td {
+    text-align: center;
+    border: 1px solid red;
+    width: 10%; 
+}
+
+footer {
+    text-align: center;
+}
